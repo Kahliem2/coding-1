@@ -1,1 +1,33 @@
-im kahliem
+im kahliem Ian Kimble.
+
+About Me Activity: Part 1
+
+Please copy and paste the questions below and answer them in 
+the aboutme.txt file we created a few days ago. When your finish, submit
+your activity by using the source control button. Remember: before you 
+can successfully submit your work you need to provide a comment/ description
+in the text box in soucre control to submit your work. 
+
+1. In a 3-4 sentences, please tell me about yourself. What are your hobbies outside of school. Things that i do outside of school is i play basketball and work on my basketball to game. To get good at it i like to play the game to on my off time when im not playing basketball i play warzon and 2k24 or 2k25. 
+
+2. Do you have someone in your network of family and friends that works in tech? If yes, please
+describe what they do and how you are connected to them. no not that i know of. 
+
+3. Do you plan on attending college? If yes, what are you interested in studying 
+(if you know you want to got to college, but unsure of what you want to study, thats alright.) yes i plan on going to college to play basketball because i want to make it to the nba one day.             
+
+4. In your own words, what do you think will be the hardest thing about learning coding? that its on a desktop and i hate working on desktop
+
+5. Bonus:
+Do you watch the NFL? If yes, who is your favorite team, and what will your teams record
+be at the end of the season? miami dolphnis and i want their record to be 13 and 2 
+
+About Me Activity: Part 2
+
+Once you have completed the first part of this activity, please use the following
+link below to complete the course kickoff survey. 
+
+Survey link:
+https://forms.gle/HCLfdGwUqoz1smjW9
+
+
